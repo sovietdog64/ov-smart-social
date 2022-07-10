@@ -17,6 +17,8 @@ As a preliminary feature set, it makes sense to aim for broadly accepted and lon
 
 This is the *Familiar Surprise* approach.
 
+Basically, if the Smart Social platform can leverage tools already in use, established, tried-and-true, we can add features and functionality to existing platforms and enhance expectations rather than subverting them.
+
 ### Smart Calendar
 
 The challenge is discovery and Las Vegas is not an environment easy to navigate as we attempt to find out what is going on and where.
@@ -24,6 +26,8 @@ The challenge is discovery and Las Vegas is not an environment easy to navigate 
 The proposed strategy here is a base introduction to the notion that a Smart City is not necessarily enabled by using Slack or Discord or Meetup or Eventbrite or... the list goes on. Beginning with standard calendars, iCalendar and iCalendar Streams, organizer-owned RSVPs, calendar sharing and status broadcast (in the event of reschedule, cancellation, etc).
 
 By making use of standard map and location data structures and protocols, it is also a small matter to connect a date and time with a place, and to provide additional useful information such as parking and transit data, not to mention weather and other appropriate, useful information.
+
+A useful resource for general calendar technologies is at [CalConnect](https://devguide.calconnect.org/) also included in References below.
 
 ### Smart News
 
@@ -48,3 +52,28 @@ This overview is subject to change, especially as we iterate on community adopti
     “To sell something surprising, make it familiar; to sell something familiar, make it surprising.”
 
     — Raymond Loewy
+
+### Calendars and Events
+
+[vCalendar RFC](https://datatracker.ietf.org/doc/html/rfc5545)
+
+[CalConnect.org Dev Guide (visit the wiki)](https://devguide.calconnect.org/)
+
+[Schema.org Event type](https://schema.org/Event)
+
+[iCalendar.org](https://icalendar.org/)
+### Contacts
+
+[vCard RFC](https://datatracker.ietf.org/doc/html/rfc6350)
+
+[CardDAV RFC](https://datatracker.ietf.org/doc/html/rfc6352)
+
+[Schema.org Person type](https://schema.org/Person)
+
+### News and Announcements
+
+[RSS Specifications collection](http://www.rss-specifications.com/)
+
+[ATOM RFC](https://datatracker.ietf.org/doc/html/rfc4287)
+
+[Schema.org article about News Markup](https://schema.org/docs/news.html)
