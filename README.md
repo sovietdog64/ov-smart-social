@@ -62,6 +62,7 @@ This overview is subject to change, especially as we iterate on community adopti
 [Schema.org Event type](https://schema.org/Event)
 
 [iCalendar.org](https://icalendar.org/)
+
 ### Contacts
 
 [vCard RFC](https://datatracker.ietf.org/doc/html/rfc6350)
@@ -77,3 +78,9 @@ This overview is subject to change, especially as we iterate on community adopti
 [ATOM RFC](https://datatracker.ietf.org/doc/html/rfc4287)
 
 [Schema.org article about News Markup](https://schema.org/docs/news.html)
+
+### Secure Email, Messaging, Chat
+
+[Matrix.org Decentralized Communication](https://www.matrix.org/)
+
+[Public Key Infrastructure (start at Wikipedia)](https://en.wikipedia.org/wiki/Public_key_infrastructure)
