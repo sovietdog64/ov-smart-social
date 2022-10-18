@@ -19,6 +19,8 @@
 
 # Smart Social Overview
 
+This Overview repository is a specification and documentation component of the Smart Social Project. Please do not add code or other resources to this repository.
+
 The goal of the Smart Social Project is to enable a Smart City to communicate with itself.
 
 The populace should be able to Discover, Learn, and Participate in meetups, gatherings, and events, while remaining informed about news and important topics, with location and community awareness in the way information is made available. At the same time, the ability to respond to and share these items will help to complete the social engagement loop, whether between government agencies and the people of Las Vegas, or amongst themselves.
